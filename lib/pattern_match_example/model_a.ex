@@ -1,4 +1,4 @@
-defmodule ModelC do
+defmodule PatternMatchExample.ModelA do
   defstruct [:foo, :bar]
 
   @type t :: %__MODULE__{}

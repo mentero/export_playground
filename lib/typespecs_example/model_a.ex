@@ -1,4 +1,4 @@
-defmodule ModelA do
+defmodule TypespecsExample.ModelA do
   defstruct [:foo, :bar]
 
   @type t :: %__MODULE__{}
